@@ -17,4 +17,4 @@ Proyek Akhir "Belajar Analisis Data dengan Python"
 - Jalankan perintah ".\env\Scripts\activate"
 - Jalankan perintah "pip install -r requirements.txt"
 - Jalankan perintah "streamlit run dahsboard.py"
-- Hasil dari dashboard yang dibuat akan tampil di browser secara lokal (dashboard saya dapat dibuka juga secara online di [Dashboard Streamlit Faizal](https://faizaldicoding.streamlit.app/)
+- Hasil dari dashboard yang dibuat akan tampil di browser secara lokal (dashboard saya juga dapat dibuka secara online di [Dashboard Streamlit Faizal](https://faizaldicoding.streamlit.app/)
